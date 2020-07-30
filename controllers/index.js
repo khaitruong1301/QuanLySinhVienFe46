@@ -60,3 +60,4 @@ var xoaSinhVien = function (id) {
 var khai_f = function() {
   console.log('ahihi');
 }
+
