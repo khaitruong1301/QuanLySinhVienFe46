@@ -37,21 +37,26 @@ renderSinhVien();
 
 renderSinhVien();
 
+
 var themSinhVien = function () {
-  console.log("Thêm sinh viên!");
-};
+    console.log('Thêm sinh viên!');
+}
 
 //user B
 var xoaSinhVien = function (idSinhVien) {
-  console.log("Xóa sinh viên " + idSinhVien);
-};
+    console.log('Xóa sinh viên '+ idSinhVien);
+}
 
 //user A
-var capNhatSinhVien = function (id, sinhVienUpdate) {
-  console.log("Cập nhật sinh viên " + id);
-};
+var capNhatSinhVien = function (id,sinhVienUpdate){
+    console.log('Cập nhật sinh viên '+ id);
+
+}
 var xoaSinhVien = function (id) {
   console.log("xoa SV" + id);
 };
 
-console.log("test");
+
+var khai_f = function() {
+  console.log('ahihi');
+}
