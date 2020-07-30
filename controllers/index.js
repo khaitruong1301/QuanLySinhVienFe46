@@ -54,4 +54,6 @@ var xoaSinhVien = function (id) {
   console.log("xoa SV" + id);
 };
 
-console.log("testABC");
+var viet_f = function () {
+  console.log("testABC");
+};
