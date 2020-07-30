@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 //Tạo đối tượng service tương tác backend
 var svService = new SinhVienService();
 
@@ -59,4 +57,3 @@ var xoaSinhVien = function (id) {
 var viet_f = function () {
   console.log("testABC");
 };
->>>>>>> git_new
